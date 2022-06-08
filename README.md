@@ -3,4 +3,4 @@
 * Integrantes 
 Lucas Barros 
 Veronica Velazco 
-Sabrina Vorpagel 
+Sabrina Vorpagel    24 Bella Vista 

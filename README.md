@@ -1,6 +1,6 @@
 * Heroes 
 
 * Integrantes 
-Lucas Barros 
+Lucas Barros 39 Plaza Huicul
 Veronica Velazco 
 Sabrina Vorpagel 

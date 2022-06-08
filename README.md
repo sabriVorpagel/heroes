@@ -1,6 +1,6 @@
-* Heroes 
+# Heroes 
 
-* Integrantes 
+# Integrantes 
 Lucas Barros 
 Veronica Velazco 
 Sabrina Vorpagel 

@@ -2,5 +2,5 @@
 
 * Integrantes 
 Lucas Barros 
-Veronica Velazco 
+Verónica Velazco, 35 años, San Miguel, Buenos Aires.
 Sabrina Vorpagel 
